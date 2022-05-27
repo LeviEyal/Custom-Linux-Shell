@@ -1,0 +1,11 @@
+ls: cannot access 'kjhas': No such file or directory
+total 132
+-rw-rw-r-- 1 happyeyal happyeyal 61751 May 17 14:56 3 תרגיל shell.pdf
+-rw-rw---- 1 happyeyal happyeyal    53 May 17 22:30 errors.txt
+-rw-rw---- 1 happyeyal happyeyal     8 May 17 22:28 eyal.txt
+-rwxrwxr-x 1 happyeyal happyeyal 18768 May 17 22:28 shell
+-rw-rw-r-- 1 happyeyal happyeyal  1298 May 17 15:09 shell1.c
+-rw-rw-r-- 1 happyeyal happyeyal  1443 May 17 14:52 shell2.c
+-rw-rw-r-- 1 happyeyal happyeyal  6867 May 17 22:28 shell3.c
+-rwxrwxr-x 1 happyeyal happyeyal 16784 May 17 20:58 test
+-rw-rw-r-- 1 happyeyal happyeyal   127 May 17 20:57 test.c
